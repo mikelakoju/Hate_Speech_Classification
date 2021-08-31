@@ -16,7 +16,8 @@ Hate speech is defined by the Cambridge Dictionary as "public speech that expres
 
 ### About the Data:
 
-`data.csv`
+Data credit: Laxmimerit
+**`data.csv`**
 `count` = number of CrowdFlower users who coded each tweet (min is 3, sometimes more users coded a tweet when judgments were determined to be unreliable by CF).
 
 `hate_speech` = number of CF users who judged the tweet to be hate speech.
